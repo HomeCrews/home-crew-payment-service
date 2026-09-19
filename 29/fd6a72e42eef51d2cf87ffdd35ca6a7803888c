@@ -1,0 +1,23 @@
+src/main/java/com/homecrew/paymentservice/PaymentserviceApplication.java
+  s_3c23b0d2ddd584::t_f820478a1260ea 9-11
+src/main/java/com/homecrew/paymentservice/controller/PaymentController.java
+  s_3c23b0d2ddd584::t_a77fec047b3c38 11-14
+src/test/java/com/homecrew/paymentservice/PaymentserviceApplicationTests.java
+  s_3c23b0d2ddd584::t_b0cb5097bcea17 9-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "29fd6a72e42eef51d2cf87ffdd35ca6a7803888c",
+  "prompts": {},
+  "sessions": {
+    "s_3c23b0d2ddd584": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b49a2721-dedb-4337-bc5d-60aefa1d7327",
+        "model": "anthropic.claude-opus-5"
+      },
+      "human_author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
