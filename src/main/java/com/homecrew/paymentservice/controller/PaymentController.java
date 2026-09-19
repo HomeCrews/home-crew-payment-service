@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/payments")
 public class PaymentController {
 
-    @GetMapping("/test")
-    public String test() {
-        return "Payment Service is working";
-    }
+  @GetMapping("/test")
+  public String test() {
+    return "Payment Service is working";
+  }
 }
