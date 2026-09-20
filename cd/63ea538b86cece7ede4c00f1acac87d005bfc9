@@ -1,0 +1,23 @@
+.github/PULL_REQUEST_TEMPLATE.md
+  s_8f1ee334861e7f::t_10fbf0d72e6182 20
+README.md
+  s_8f1ee334861e7f::t_98c0b6778df1db 49,51
+src/main/resources/application.properties
+  s_8f1ee334861e7f::t_2de0eee6aa3914 7-8,47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "cd63ea538b86cece7ede4c00f1acac87d005bfc9",
+  "prompts": {},
+  "sessions": {
+    "s_8f1ee334861e7f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b36985b-ae1d-4fa4-a365-e2432c2c80b9",
+        "model": "anthropic.claude-opus-5"
+      },
+      "human_author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
